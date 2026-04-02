@@ -19,7 +19,3 @@ I build practical **finance tools** in Python and I’m exploring **AI/agentic s
 
 ## Finance background
 Self-taught investor since 19 (ETFs + stock picking). I use both fundamental and technical analysis, and I’m comfortable with research/screening tools (TradingView, GuruFocus, Fiscal.ai).
-
-## What’s next
-- BTC Monte Carlo simulator (calibration + scenario analysis)
-- BTC treasury company model (mNAV, BTC holdings, dilution, per-share metrics)
