@@ -4,7 +4,7 @@ French computer engineering student at **[EPITA](https://www.epita.fr/en/)**. �
 
 I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**. 👨🏻‍💻
 
-Explore my repos below ! You’ll find investment simulators and finance tools with Streamlit dashboards.
+**Explore my repos below !** You’ll find investment simulators and finance tools with Streamlit dashboards.
 
 ### 🛠️ Technical stack
 
