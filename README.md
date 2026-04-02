@@ -1,18 +1,10 @@
-# Hello, I’m Paul 👋
+# Hello there, I’m Paul 👋🏻
 
-French computer engineering student at **[EPITA](https://www.epita.fr/)**. I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**.
+French computer engineering student at **[EPITA](https://www.epita.fr/)**. 🇫🇷 
 
-### Projects
+I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**. 👨🏻‍💻
 
-**Air Liquide Investment Projection Simulator**  
-Deterministic projection model with Air Liquide loyalty rules and a Streamlit UI.  
-👉 https://github.com/Pstkdev/Air-Liquide-Investment-Projection-Simulator-Tool
-
-**TotalEnergies (TTE) Investment Simulator**  
-Mean-reverting stochastic price simulation with Streamlit UI and Docker for easy setup.  
-👉 https://github.com/Pstkdev/TotalEnergies-Investment-Simulator
-
----
+Explore my repos below ! You’ll find investment simulators and finance tools with Streamlit dashboards.
 
 ### 🛠️ Technical stack
 
@@ -24,16 +16,17 @@ Mean-reverting stochastic price simulation with Streamlit UI and Docker for easy
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Data / Apps
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-black?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-Data%20Source-lightgrey?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-lightgrey?style=for-the-badge)
 
 #### Infra / Tools
-![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
