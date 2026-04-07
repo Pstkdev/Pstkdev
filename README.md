@@ -32,4 +32,4 @@ I build **finance tools** in Python with a growing focus on **agentic AI** and *
 ---
 
 ### 📈 Finance background
-Self-taught investor since 19 (ETFs + stock picking). I combine fundamental and technical analysis using tools such as TradingView, GuruFocus and Fiscal.ai.
+Self-taught investor since 19 (ETFs + stock picking). I combine fundamental and technical analysis using tools such as **[TradingView](https://www.tradingview.com/)**, **[GuruFocus](https://www.gurufocus.com/)** and **[Fiscal.ai](https://fiscal.ai)**
