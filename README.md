@@ -1,6 +1,6 @@
 # Hello there, I’m Paul 👋🏻
 
-French computer engineering student at **[EPITA](https://www.epita.fr/en/)**. 🇫🇷 
+French computer engineering student. 🇫🇷 
 
 I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**. 👨🏻‍💻
 
