@@ -1,12 +1,13 @@
-# Hello there, I’m Paul 👋🏻
+# Pstkdev
 
-French computer engineering student. 🇫🇷 
+French computer engineering student.
 
-I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**. 👨🏻‍💻
+I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**.
 
-**Explore my repos below!** You’ll find investment simulators and finance tools with Streamlit dashboards.
-
-### 🛠️ Technical stack
+My projects:
+- Bitcoin Monte Carlo simulator
+- TotalEnergies stochastic simulator
+- Air Liquide deterministic simulator
 
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
