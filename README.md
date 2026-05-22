@@ -9,28 +9,11 @@ My projects:
 - TotalEnergies stochastic simulator
 - Air Liquide deterministic simulator
 
-#### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Tech stack
+Python • Pandas • Streamlit • Plotly • Numpy • Docker
 
-#### Data / Apps
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-lightgrey?style=for-the-badge)
+Also:
+C • C++ • Java • SQL/PostgreSQL • AWS • Linux
 
-#### Infra / Tools
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### 📈 Finance background
+### Finance background
 Self-taught investor since 19. I combine fundamental and technical analysis using tools such as **[TradingView](https://www.tradingview.com/)**, **[GuruFocus](https://www.gurufocus.com/)** and **[Fiscal.ai](https://fiscal.ai)**
