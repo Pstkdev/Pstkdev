@@ -1,10 +1,8 @@
 # Pstkdev
 
-French computer engineering student.
+French computer engineering student. I build investment simulators and financial analysis tools.
 
-I build **finance tools** in Python with a growing focus on **agentic AI** and **cloud computing**.
-
-My projects:
+Projects:
 - Bitcoin Monte Carlo simulator
 - TotalEnergies stochastic simulator
 - Air Liquide deterministic simulator
@@ -12,7 +10,7 @@ My projects:
 ### Tech stack
 Python • Pandas • Streamlit • Plotly • Numpy • Docker
 
-Also:
+Also worked with:
 C • C++ • Java • SQL/PostgreSQL • AWS • Linux
 
 ### Finance background
