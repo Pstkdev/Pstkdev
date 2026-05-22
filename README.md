@@ -33,4 +33,4 @@ My projects:
 ---
 
 ### 📈 Finance background
-Self-taught investor since 19 (ETFs + stock picking). I combine fundamental and technical analysis using tools such as **[TradingView](https://www.tradingview.com/)**, **[GuruFocus](https://www.gurufocus.com/)** and **[Fiscal.ai](https://fiscal.ai)**
+Self-taught investor since 19. I combine fundamental and technical analysis using tools such as **[TradingView](https://www.tradingview.com/)**, **[GuruFocus](https://www.gurufocus.com/)** and **[Fiscal.ai](https://fiscal.ai)**
